@@ -89,11 +89,11 @@
 
 	# Make `git rebase` safer on macOS.
 	# More info: <http://www.git-tower.com/blog/make-git-rebase-safe-on-osx/>
-	trustctime = false
+	# trustctime = false
 
 	# Prevent showing files whose names contain non-ASCII symbols as unversioned.
 	# http://michael-kuehnel.de/git/2014/11/21/git-mac-osx-and-german-umlaute.html
-	precomposeunicode = false
+	# precomposeunicode = false
 
 	# Speed up commands involving untracked files such as `git status`.
 	# https://git-scm.com/docs/git-update-index#_untracked_cache
@@ -152,31 +152,31 @@
 [push]
 
 	# https://git-scm.com/docs/git-config#git-config-pushdefault
-	default = simple
+	# default = simple
 	# Make `git push` push relevant annotated tags when pushing branches out.
-	followTags = true
+	# followTags = true
 
 # URL shorthands
 
-[url "git@github.com:"]
+# [url "git@github.com:"]
 
-	insteadOf = "gh:"
-	pushInsteadOf = "github:"
-	pushInsteadOf = "git://github.com/"
+# 	insteadOf = "gh:"
+# 	pushInsteadOf = "github:"
+# 	pushInsteadOf = "git://github.com/"
 
-[url "git://github.com/"]
+# [url "git://github.com/"]
 
-	insteadOf = "github:"
+# 	insteadOf = "github:"
 
-[url "git@gist.github.com:"]
+# [url "git@gist.github.com:"]
 
-	insteadOf = "gst:"
-	pushInsteadOf = "gist:"
-	pushInsteadOf = "git://gist.github.com/"
+# 	insteadOf = "gst:"
+# 	pushInsteadOf = "gist:"
+# 	pushInsteadOf = "git://gist.github.com/"
 
-[url "git://gist.github.com/"]
+# [url "git://gist.github.com/"]
 
-	insteadOf = "gist:"
+# 	insteadOf = "gist:"
 
 [init]
 
