@@ -109,3 +109,10 @@ Suggestions/improvements
 * [Kevin Suttle](http://kevinsuttle.com/) and his [dotfiles repository](https://github.com/kevinSuttle/dotfiles) and [macOS-Defaults project](https://github.com/kevinSuttle/macOS-Defaults), which aims to provide better documentation for [`~/.macos`](https://mths.be/macos)
 * [Haralan Dobrev](https://hkdobrev.com/)
 * Anyone who [contributed a patch](https://github.com/mathiasbynens/dotfiles/contributors) or [made a helpful suggestion](https://github.com/mathiasbynens/dotfiles/issues)
+
+
+## Additional articles
+
+https://medium.com/@goangle/my-awesome-zsh-weapon-2745cd34735d
+
+https://www.howtogeek.com/337861/instantly-open-a-full-screen-terminal-on-your-mac-using-a-keyboard-shortcut/

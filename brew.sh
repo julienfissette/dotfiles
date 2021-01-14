@@ -97,5 +97,8 @@ brew install git
 #brew install vbindiff
 #brew install zopfli
 
+brew cask install iterm2
+brew install zsh
+
 # Remove outdated versions from the cellar.
 brew cleanup
